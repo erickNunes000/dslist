@@ -23,7 +23,7 @@ public class GameMinDTO {
 		return id;
 	}
 
-	public String getTitle() {
+	public String getTitle() { 
 		return title;
 	}
 
