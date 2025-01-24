@@ -32,6 +32,4 @@ cd dslist
 # Autor
 
 Erico Fernandes Nunes
-
-https://www.linkedin.com/in/wmazoni
 https://www.linkedin.com/in/erico-fernandes-3461a8231/
