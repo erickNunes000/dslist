@@ -1,6 +1,6 @@
 
 # Sobre o projeto
-- Projeto de estudo de implementação de servidor Java com Spring Boot Utilizando arquitetura de modelo em camadas e banco de dados SQL
+- Este repositório contém um projeto de estudo que explora a criação de um servidor Java utilizando o framework Spring Boot. O projeto foi desenvolvido seguindo a arquitetura de modelo em camadas, promovendo a organização e manutenibilidade do código. O banco de dados SQL foi utilizado para armazenar e persistir os dados da aplicação.
 
 # Tecnologias utilizadas
 ## Back end
